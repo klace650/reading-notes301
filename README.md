@@ -1,11 +1,11 @@
 # Code 301 - Reading Notes
-A collection of notes based off of the assigned reading.
-*Sept 26 - Nov 26*
+## A collection of notes based off of the assigned reading.  
+## *Sept 26 - Nov 26*
 
 [Read: 01](read01.md) - SMACSS and Responsive Web Design  
 [Read: 02](read02.md) - jQuery, Events, and The DOM  
 [Read: 03](read03.md) - Flexbox and Templating  
-[Read: 04](read04.md) - Responsive Web Design and Regular Expressions
+[Read: 04](read04.md) - Responsive Web Design and Regular Expressions  
 [Read: 05](read05.md) - Heroku Deployment  
 [Read: 06](read06.md) - Read: 06 - Node, Express, and APIs  
 [Read: 07](read07.md) - Read: 07 - APIs continued  
